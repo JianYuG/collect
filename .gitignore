@@ -1,0 +1,25 @@
+# === 前端 ===
+frontend/node_modules/
+frontend/dist/
+frontend/.vscode/
+
+# === 后端 ===
+backend/target/
+backend/.idea/
+backend/*.iml
+
+# === IDE ===
+.idea/
+*.iml
+.vscode/
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+
+# === 环境配置（含敏感信息） ===
+*.env
+*.env.local
+
+# === Qoder 工作目录 ===
+.qoder/
